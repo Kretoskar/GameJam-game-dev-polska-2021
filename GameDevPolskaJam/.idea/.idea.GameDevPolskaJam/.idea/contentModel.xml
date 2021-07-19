@@ -10,7 +10,6 @@
         <e p="_Game" t="Include">
           <e p="Shader graph custom functions" t="Include">
             <e p="CustomLighting.hlsl" t="Include" />
-            <e p="GetLightData.txt" t="Include" />
           </e>
         </e>
         <e p="Scripts" t="Include">
