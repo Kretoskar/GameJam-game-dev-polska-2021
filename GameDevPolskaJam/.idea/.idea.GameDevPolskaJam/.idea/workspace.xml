@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
@@ -16,9 +17,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/CustomLighting.shader" />
         <option value="$PROJECT_DIR$/Assets/_Game/dfssef.shader" />
         <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/GetLightData.shader" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/CustomLighting.shader" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/CustomLighting.hlsl" />
       </list>
     </option>
   </component>
@@ -48,7 +50,7 @@
       <workItem from="1626719569706" duration="23000" />
       <workItem from="1626721670795" duration="425000" />
       <workItem from="1626722354881" duration="599000" />
-      <workItem from="1626723004639" duration="832000" />
+      <workItem from="1626723004639" duration="1666000" />
     </task>
     <servers />
   </component>
