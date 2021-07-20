@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/CrossHatch.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/CrossHatch.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
       <workItem from="1626719569706" duration="23000" />
       <workItem from="1626721670795" duration="425000" />
       <workItem from="1626722354881" duration="599000" />
-      <workItem from="1626723004639" duration="3991000" />
+      <workItem from="1626723004639" duration="3992000" />
     </task>
     <servers />
   </component>
