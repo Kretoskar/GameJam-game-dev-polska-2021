@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="" />
+    <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Util/MessageManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_Game/dfssef.shader" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/GetLightData.shader" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/CustomLighting.shader" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/CustomLighting.hlsl" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1vXs2fIvSjuIraZAxcSsjcNUaco" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,6 +49,9 @@
       <option name="presentableId" value="Default" />
       <updated>1626719563213</updated>
       <workItem from="1626719569706" duration="23000" />
+      <workItem from="1626721670795" duration="425000" />
+      <workItem from="1626722354881" duration="599000" />
+      <workItem from="1626723004639" duration="3992000" />
     </task>
     <servers />
   </component>
