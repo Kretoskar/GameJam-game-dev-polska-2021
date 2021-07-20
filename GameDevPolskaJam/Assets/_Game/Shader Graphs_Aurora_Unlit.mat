@@ -38,6 +38,11 @@ Material:
     m_Ints: []
     m_Floats:
     - DissolvePower: 2
+    - FragmentAmout: 0.1
+    - FragmentDistance: 2
+    - FragmentForce: 3
+    - FragmentFrequency: 2
+    - FragmentSpeed: 1
     - MaskPower: 1
     - NoiseScale: 30
     m_Colors:
