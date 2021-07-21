@@ -12,7 +12,9 @@
             <e p="CustomLighting.hlsl" t="Include" />
             <e p="Interaction" t="Include">
               <e p="AnimationTriggerInteraction.cs" t="Include" />
+              <e p="ChangeMaterialInteraction.cs" t="Include" />
               <e p="Interaction.cs" t="Include" />
+              <e p="MaterialPropertyInteraction.cs" t="Include" />
             </e>
             <e p="NewBehaviourScript.cs" t="Include" />
           </e>
