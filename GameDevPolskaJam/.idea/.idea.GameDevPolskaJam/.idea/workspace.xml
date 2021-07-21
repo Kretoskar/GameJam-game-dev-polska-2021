@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scenes/Playground.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scenes/Playground.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/AnimationTriggerInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Util/MessageManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/Interaction.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +26,9 @@
         <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/GetLightData.shader" />
         <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/CustomLighting.shader" />
         <option value="$PROJECT_DIR$/Assets/_Game/Shader graph custom functions/CustomLighting.hlsl" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/Interaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/AnimationTriggerInteraction.cs" />
       </list>
     </option>
   </component>
@@ -52,6 +59,8 @@
       <workItem from="1626721670795" duration="425000" />
       <workItem from="1626722354881" duration="599000" />
       <workItem from="1626723004639" duration="3992000" />
+      <workItem from="1626820957658" duration="270000" />
+      <workItem from="1626821314938" duration="740000" />
     </task>
     <servers />
   </component>
