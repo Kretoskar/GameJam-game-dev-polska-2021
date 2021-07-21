@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_CrossHatch_Lit
+  m_Name: Shader Graphs_CrossHatch_Lit_Stairs
   m_Shader: {fileID: -6465566751694194690, guid: 74a2d72628e02df45b2f4c992e59a880, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -60,6 +60,6 @@ Material:
     - ScrollSpeedHatch2: 0.15
     - ScrollSpeedHatch3: 0.2
     - ScrollSpeedHatch4: 0.25
-    - TextureTiling: 5
+    - TextureTiling: 30
     m_Colors: []
   m_BuildTextureStacks: []

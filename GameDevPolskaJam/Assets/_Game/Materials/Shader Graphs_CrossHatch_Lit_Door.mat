@@ -53,10 +53,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Hatch1Tiling: 5
+    - HatchesTiling: 5
     - ScrollSpeed: 0.2
     - ScrollSpeedHatch1: 0.1
     - ScrollSpeedHatch2: 0.15
     - ScrollSpeedHatch3: 0.2
     - ScrollSpeedHatch4: 0.25
+    - TextureTiling: 3
     m_Colors: []
   m_BuildTextureStacks: []
