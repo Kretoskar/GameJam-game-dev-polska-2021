@@ -59,8 +59,8 @@ Material:
     m_Floats:
     - Hatch1Tiling: 5
     - HatchesTiling: 5
-    - NormalMapNoiseScale: 20
-    - NormalMapStrength: 5
+    - NormalMapNoiseScale: 100
+    - NormalMapStrength: 1
     - ScrollSpeed: 0.2
     - ScrollSpeedHatch1: 0.05
     - ScrollSpeedHatch2: 0.1
