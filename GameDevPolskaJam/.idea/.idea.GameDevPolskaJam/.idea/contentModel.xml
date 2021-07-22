@@ -11,6 +11,7 @@
           <e p="Code" t="Include">
             <e p="CustomLighting.hlsl" t="Include" />
             <e p="Interaction" t="Include">
+              <e p="ActivateGameObjectInteraction.cs" t="Include" />
               <e p="AnimationTriggerInteraction.cs" t="Include" />
               <e p="ChangeMaterialInteraction.cs" t="Include" />
               <e p="Interaction.cs" t="Include" />

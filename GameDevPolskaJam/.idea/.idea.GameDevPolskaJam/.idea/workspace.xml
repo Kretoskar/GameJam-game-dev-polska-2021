@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/House.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/House.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +16,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/AnimationTriggerInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Util/MessageManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/ChangeMaterialInteraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/ActivateGameObjectInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/MaterialPropertyInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/Interaction.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -33,6 +32,7 @@
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/AnimationTriggerInteraction.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/MaterialPropertyInteraction.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/ChangeMaterialInteraction.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/ActivateGameObjectInteraction.cs" />
       </list>
     </option>
   </component>
