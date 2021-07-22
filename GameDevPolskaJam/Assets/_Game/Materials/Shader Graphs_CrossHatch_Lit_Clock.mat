@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_CrossHatch_Lit
+  m_Name: Shader Graphs_CrossHatch_Lit_Clock
   m_Shader: {fileID: -6465566751694194690, guid: 74a2d72628e02df45b2f4c992e59a880, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - BaseTexture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 4512808295eb53c47a8aeb8e5c4dfa1b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_010aa9dfb6eb463bad286e42493a0d22_Texture_1:
