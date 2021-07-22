@@ -20,6 +20,7 @@
               <e p="ChangeMaterialInteraction.cs" t="Include" />
               <e p="Interaction.cs" t="Include" />
               <e p="MaterialPropertyInteraction.cs" t="Include" />
+              <e p="PlaySoundInteraction.cs" t="Include" />
               <e p="SendFSMEventInteraction.cs" t="Include" />
             </e>
           </e>
