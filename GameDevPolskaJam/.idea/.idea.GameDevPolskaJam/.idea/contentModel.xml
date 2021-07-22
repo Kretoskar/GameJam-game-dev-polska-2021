@@ -10,6 +10,9 @@
       <e p="Assets" t="Include">
         <e p="_Game" t="Include">
           <e p="Code" t="Include">
+            <e p="Audio" t="Include">
+              <e p="FootstepsSound.cs" t="Include" />
+            </e>
             <e p="CustomLighting.hlsl" t="Include" />
             <e p="Interaction" t="Include">
               <e p="ActivateGameObjectInteraction.cs" t="Include" />
@@ -19,7 +22,6 @@
               <e p="MaterialPropertyInteraction.cs" t="Include" />
               <e p="SendFSMEventInteraction.cs" t="Include" />
             </e>
-            <e p="NewBehaviourScript.cs" t="Include" />
           </e>
         </e>
         <e p="DOTweenPlaymakerActions" t="Include">
