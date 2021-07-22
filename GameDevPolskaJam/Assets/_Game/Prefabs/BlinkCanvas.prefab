@@ -62,7 +62,7 @@ RectTransform:
   m_GameObject: {fileID: 3793343261794395425}
   m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.35, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3793343262694750866}
   m_RootOrder: 1
@@ -272,7 +272,7 @@ RectTransform:
   m_GameObject: {fileID: 3793343262327512925}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.35, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3793343262694750866}
   m_RootOrder: 0
@@ -1295,7 +1295,7 @@ MonoBehaviour:
       isGlobal: 0
     - name: Blink
       isSystemEvent: 0
-      isGlobal: 0
+      isGlobal: 1
     globalTransitions:
     - fsmEvent:
         name: Blink
