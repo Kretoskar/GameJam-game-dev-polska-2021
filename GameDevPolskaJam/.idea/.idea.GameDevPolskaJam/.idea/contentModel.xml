@@ -14,6 +14,7 @@
               <e p="FootstepsSound.cs" t="Include" />
             </e>
             <e p="CustomLighting.hlsl" t="Include" />
+            <e p="DontDestroyOnLoad.cs" t="Include" />
             <e p="Interaction" t="Include">
               <e p="ActivateGameObjectInteraction.cs" t="Include" />
               <e p="AnimationTriggerInteraction.cs" t="Include" />

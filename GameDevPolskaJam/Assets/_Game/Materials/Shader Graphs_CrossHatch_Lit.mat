@@ -60,7 +60,7 @@ Material:
     - Hatch1Tiling: 5
     - HatchesTiling: 5
     - NormalMapNoiseScale: 100
-    - NormalMapStrength: 0.5
+    - NormalMapStrength: 0.2
     - ScrollSpeed: 0.2
     - ScrollSpeedHatch1: 0.05
     - ScrollSpeedHatch2: 0.1
