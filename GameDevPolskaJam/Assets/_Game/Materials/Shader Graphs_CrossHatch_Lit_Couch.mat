@@ -62,10 +62,10 @@ Material:
     - NormalMapNoiseScale: 100
     - NormalMapStrength: 0.5
     - ScrollSpeed: 0.2
-    - ScrollSpeedHatch1: 0.05
-    - ScrollSpeedHatch2: 0.1
-    - ScrollSpeedHatch3: -0.2
-    - ScrollSpeedHatch4: 0.25
+    - ScrollSpeedHatch1: 0
+    - ScrollSpeedHatch2: 0
+    - ScrollSpeedHatch3: 0
+    - ScrollSpeedHatch4: 0
     - TextureTiling: 5
     m_Colors:
     - BaseTextureTiling: {r: 1, g: 1, b: 0, a: 0}
