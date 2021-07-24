@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - BaseTexture:
-        m_Texture: {fileID: 2800000, guid: 1823642d3d07e78478749820594064df, type: 3}
+        m_Texture: {fileID: 2800000, guid: 95bf23cf67ce1bd4a984b652e6452eae, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_010aa9dfb6eb463bad286e42493a0d22_Texture_1:
@@ -69,5 +69,5 @@ Material:
     - TextureTiling: 3
     m_Colors:
     - BaseTextureTiling: {r: 1, g: 1, b: 0, a: 0}
-    - Tiling: {r: 3, g: 3, b: 0, a: 0}
+    - Tiling: {r: 7, g: 7, b: 0, a: 0}
   m_BuildTextureStacks: []
