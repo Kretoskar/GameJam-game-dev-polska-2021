@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/_Game/Code/RotateToPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Code/RotateToPlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/PostFX/Global Volume Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/PostFX/Global Volume Profile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/3_Koksowniki.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/3_Koksowniki.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/DontDestroyOnLoad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Util/MessageManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../_AnnoyedTeam/unity-annoyed-team-project/AnnoyedTeam/Assets/Game/Code/Game/Audio/FootstepSounds.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/FireStarter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/PlaySoundInteraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Flameable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../_AnnoyedTeam/unity-annoyed-team-project/AnnoyedTeam/Assets/Game/Code/Game/Audio/FootstepsSoundPlayer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/MaterialPropertyInteraction.cs" root0="FORCE_HIGHLIGHTING" />
@@ -31,6 +36,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/ActivateGameObjectInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/SendFSMEventInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Audio/FootstepsSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/FlameableByFlameable.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,6 +59,9 @@
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Outline.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/RotateToPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/FireStarter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/Flameable.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/FlameableByFlameable.cs" />
       </list>
     </option>
   </component>

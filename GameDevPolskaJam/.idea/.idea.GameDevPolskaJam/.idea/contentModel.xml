@@ -17,6 +17,9 @@
             <e p="DontDestroyOnLoad.cs" t="Include" />
             <e p="Draggable.cs" t="Include" />
             <e p="Dragger.cs" t="Include" />
+            <e p="FireStarter.cs" t="Include" />
+            <e p="Flameable.cs" t="Include" />
+            <e p="FlameableByFlameable.cs" t="Include" />
             <e p="Interaction" t="Include">
               <e p="ActivateGameObjectInteraction.cs" t="Include" />
               <e p="AnimationTriggerInteraction.cs" t="Include" />
