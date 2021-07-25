@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +85,7 @@
       <workItem from="1626820957658" duration="270000" />
       <workItem from="1626821314938" duration="740000" />
       <workItem from="1626980516007" duration="3096000" />
+      <workItem from="1627216434997" duration="483000" />
     </task>
     <servers />
   </component>

@@ -8,6 +8,9 @@ public class Dragger : MonoBehaviour
     private Outline selection;
     private Camera mainCam;
 
+    private Vector3 offset;
+    private Vector3 hitPosition;
+
     private void Start()
     {
         mainCam = Camera.main;
@@ -25,7 +28,8 @@ public class Dragger : MonoBehaviour
                 selection = hit.transform.GetComponent<Outline>();
                 selection.DrawOutline();
                 selection.GetComponent<Rigidbody>().isKinematic = true;
-                
+                hitPosition = hit.transform.position;
+
             }
         }
         else if(selection != null)
@@ -41,6 +45,7 @@ public class Dragger : MonoBehaviour
             if (Input.GetMouseButtonDown(0))
             {
                 selection.transform.parent = mainCam.transform;
+                offset = selection.transform.position - hitPosition;
             }
 
             if (Input.GetMouseButtonUp(0))
@@ -48,6 +53,11 @@ public class Dragger : MonoBehaviour
                 selection.transform.parent = null;
                 selection.GetComponent<Rigidbody>().isKinematic = false;
                 selection.transform.parent = null;
+            }
+
+            if (Input.GetMouseButton(0))
+            {
+               // selection.transform.position = transform.position + mainCam.transform.forward;
             }
         }
     }
