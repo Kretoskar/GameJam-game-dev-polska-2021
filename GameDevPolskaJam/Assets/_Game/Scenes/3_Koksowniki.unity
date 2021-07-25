@@ -140,6 +140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96fdb8f6e8b41d342beae4aeb69de33f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  throwForce: 300
 --- !u!1001 &283460747
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2107,8 +2108,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 3.422561, y: 1.1583073, z: 0.20000027}
-  m_Center: {x: -0.049012776, y: -0.17386849, z: -0.000003787545}
+  m_Size: {x: 3.422561, y: 1.1583073, z: 1.5352297}
+  m_Center: {x: -0.049012765, y: -0.17386849, z: -0.051404975}
 --- !u!1 &1116599672
 GameObject:
   m_ObjectHideFlags: 0
@@ -2157,7 +2158,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1199993541
 MonoBehaviour:
   m_ObjectHideFlags: 0

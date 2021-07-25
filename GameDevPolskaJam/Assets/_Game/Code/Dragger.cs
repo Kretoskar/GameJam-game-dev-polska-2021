@@ -5,6 +5,10 @@ using UnityEngine;
 
 public class Dragger : MonoBehaviour
 {
+    [SerializeField] private float throwForce = 10;
+    
+    //TA KLASA TO GOWNO STRASZNE ALE NA SZYBKO PISANE SORRY
+    
     private Outline selection;
     private Camera mainCam;
 
@@ -27,7 +31,7 @@ public class Dragger : MonoBehaviour
             {
                 selection = hit.transform.GetComponent<Outline>();
                 selection.DrawOutline();
-                selection.GetComponent<Rigidbody>().isKinematic = true;
+                //selection.GetComponent<Rigidbody>().isKinematic = true;
                 hitPosition = hit.transform.position;
 
             }
@@ -44,14 +48,15 @@ public class Dragger : MonoBehaviour
         {
             if (Input.GetMouseButtonDown(0))
             {
+                selection.GetComponent<Rigidbody>().isKinematic = true;
                 selection.transform.parent = mainCam.transform;
                 offset = selection.transform.position - hitPosition;
             }
 
             if (Input.GetMouseButtonUp(0))
             {
-                selection.transform.parent = null;
                 selection.GetComponent<Rigidbody>().isKinematic = false;
+                selection.GetComponent<Rigidbody>().AddForce(selection.transform.parent.transform.forward * throwForce);
                 selection.transform.parent = null;
             }
 
