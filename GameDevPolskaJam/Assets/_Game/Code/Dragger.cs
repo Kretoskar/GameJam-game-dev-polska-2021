@@ -58,7 +58,8 @@ public class Dragger : MonoBehaviour
             if (Input.GetMouseButtonUp(0))
             {
                 selection.GetComponent<Rigidbody>().isKinematic = false;
-                selection.GetComponent<Rigidbody>().AddForce(selection.transform.parent.transform.forward * throwForce);
+                if(selection.transform.parent != null)
+                    selection.GetComponent<Rigidbody>().AddForce(selection.transform.parent.transform.forward * throwForce);
                 selection.transform.parent = null;
                 dragging = false;
             }

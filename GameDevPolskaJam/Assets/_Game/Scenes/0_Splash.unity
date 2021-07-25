@@ -923,6 +923,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50d0f59194ba184448a6e0cc7a30773c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  blokowisko: {fileID: 8300000, guid: 2b8c51b2b01c6be41a632db9a2c1c395, type: 3}
+  zima: {fileID: 8300000, guid: b285efe70482bd84fbee3020b09e52d1, type: 3}
 --- !u!82 &1047558966
 AudioSource:
   m_ObjectHideFlags: 0

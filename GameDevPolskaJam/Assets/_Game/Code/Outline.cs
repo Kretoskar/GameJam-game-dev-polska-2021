@@ -6,6 +6,8 @@ namespace Game.Rendering
 {
     public class Outline : MonoBehaviour
     {
+        [SerializeField] private Vector3 offset;
+        [SerializeField] private Vector3 meshScale = Vector3.one;
         [SerializeField] private Material outlineMaterial = null;
         [SerializeField] private float outlineScale = 1;
         [SerializeField] private Color outlineColor = Color.red;
@@ -36,7 +38,8 @@ namespace Game.Rendering
 
         private Renderer CreateOutline(Material outlineMaterial, float scaleFactor, Color color)
         {
-            GameObject outlineObject = Instantiate(gameObject, transform.position, transform.rotation, transform);
+            GameObject outlineObject = Instantiate(gameObject, transform.position + offset, transform.rotation, transform);
+            outlineObject.transform.localScale = meshScale;
             Renderer renderer = outlineObject.GetComponent<Renderer>();
 
             renderer.material = outlineMaterial;
