@@ -6,11 +6,13 @@ using UnityEngine;
 public class Dragger : MonoBehaviour
 {
     [SerializeField] private float throwForce = 10;
+    [SerializeField] private float minDistance = 5;
     
     //TA KLASA TO GOWNO STRASZNE ALE NA SZYBKO PISANE SORRY
     
     private Outline selection;
     private Camera mainCam;
+    private bool dragging;
 
     private Vector3 offset;
     private Vector3 hitPosition;
@@ -25,15 +27,14 @@ public class Dragger : MonoBehaviour
         var ray = mainCam.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
 
-        if (Physics.Raycast(ray, out hit) && hit.transform.CompareTag("Draggable"))
+        if (Physics.Raycast(ray, out hit) && hit.transform.CompareTag("Draggable") && Vector3.Distance(hit.transform.position, transform.position) < minDistance)
         {
+            hitPosition = hit.transform.position;
             if (selection == null)
             {
                 selection = hit.transform.GetComponent<Outline>();
                 selection.DrawOutline();
                 //selection.GetComponent<Rigidbody>().isKinematic = true;
-                hitPosition = hit.transform.position;
-
             }
         }
         else if(selection != null)
@@ -51,6 +52,7 @@ public class Dragger : MonoBehaviour
                 selection.GetComponent<Rigidbody>().isKinematic = true;
                 selection.transform.parent = mainCam.transform;
                 offset = selection.transform.position - hitPosition;
+                dragging = true;
             }
 
             if (Input.GetMouseButtonUp(0))
@@ -58,12 +60,12 @@ public class Dragger : MonoBehaviour
                 selection.GetComponent<Rigidbody>().isKinematic = false;
                 selection.GetComponent<Rigidbody>().AddForce(selection.transform.parent.transform.forward * throwForce);
                 selection.transform.parent = null;
+                dragging = false;
             }
 
-            if (Input.GetMouseButton(0))
-            {
-               // selection.transform.position = transform.position + mainCam.transform.forward;
-            }
+            if (dragging)
+                selection.transform.position = hitPosition - offset;
+
         }
     }
 }

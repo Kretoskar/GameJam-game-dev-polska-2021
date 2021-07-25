@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/1_House.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/1_House.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/1_House/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/1_House/LightingData.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/3_Koksowniki.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/3_Koksowniki.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/AnimationTriggerInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/ChangeMaterialInteraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/RotateToPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/ActivateGameObjectInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/SendFSMEventInteraction.cs" root0="FORCE_HIGHLIGHTING" />
@@ -50,9 +55,10 @@
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/PlaySoundInteraction.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Interaction/Interaction.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/ThrowObject.cs" />
-        <option value="$PROJECT_DIR$/Assets/_Game/Code/Outline.cs" />
         <option value="$PROJECT_DIR$/Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/Outline.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Code/RotateToPlayer.cs" />
       </list>
     </option>
   </component>
