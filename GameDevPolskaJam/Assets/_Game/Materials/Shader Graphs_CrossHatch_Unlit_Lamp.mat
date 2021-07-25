@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_CrossHatch_Unlit
+  m_Name: Shader Graphs_CrossHatch_Unlit_Lamp
   m_Shader: {fileID: -6465566751694194690, guid: 1b672236dffcf20498aab52070f7c602, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - BaseTexture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 6fb00f802df7b2a46a143bb01ab3eb3c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2DAsset_3a3094abea5549a7833c05b6584b3b93_Out_0:

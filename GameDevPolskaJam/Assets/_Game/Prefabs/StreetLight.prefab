@@ -179,7 +179,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: f9d11d19dfa17864ca656df49f0b2357, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 72789efeb05dd64478f17e8ee3c95209, type: 2}
+      objectReference: {fileID: 2100000, guid: 7e24466ed6df4db4dac8cc0faea4088e, type: 2}
     - target: {fileID: 919132149155446097, guid: f9d11d19dfa17864ca656df49f0b2357, type: 3}
       propertyPath: m_Name
       value: lamp2
