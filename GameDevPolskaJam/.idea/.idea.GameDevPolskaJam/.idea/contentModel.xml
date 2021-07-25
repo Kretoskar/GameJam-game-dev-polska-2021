@@ -34,6 +34,8 @@
             <e p="Radio.cs" t="Include" />
             <e p="RotateToPlayer.cs" t="Include" />
           </e>
+          <e p="Pala.cs" t="Include" />
+          <e p="Palable.cs" t="Include" />
         </e>
         <e p="DOTweenPlaymakerActions" t="Include">
           <e p="Actions" t="Include">

@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b561d69-98d1-4cc7-bd3b-aed61ad5d8b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameDevPolskaJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/3D/hand.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/3D/hand.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Animations/Hand.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Animations/Hand.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Animations/NPCKoxownik.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Animations/NPCKoxownik.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/1_House.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/1_House.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/3_Koksowniki.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/3_Koksowniki.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Game/Scenes/4_naqrwianie.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Game/Scenes/4_naqrwianie.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,28 +23,30 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/DontDestroyOnLoad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Radio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/PlaySoundInteraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Flameable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../_AnnoyedTeam/unity-annoyed-team-project/AnnoyedTeam/Assets/Game/Code/Game/Audio/FootstepsSoundPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/MaterialPropertyInteraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/Interaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/RotateToPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/SendFSMEventInteraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Audio/FootstepsSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Palable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@11.0.0/Editor/Util/MessageManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../_AnnoyedTeam/unity-annoyed-team-project/AnnoyedTeam/Assets/Game/Code/Game/Audio/FootstepSounds.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/FireStarter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Radio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/ChangeToZimaYeaaaah.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/PlaySoundInteraction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Flameable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../_AnnoyedTeam/unity-annoyed-team-project/AnnoyedTeam/Assets/Game/Code/Game/Audio/FootstepsSoundPlayer.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/MaterialPropertyInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Outline.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/Interaction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/StarterAssets/FirstPersonController/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/AnimationTriggerInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/ChangeMaterialInteraction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/RotateToPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/ActivateGameObjectInteraction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Interaction/SendFSMEventInteraction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/Audio/FootstepsSound.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Game/Code/FlameableByFlameable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Game/Pala.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,6 +75,8 @@
         <option value="$PROJECT_DIR$/Assets/_Game/Code/DontDestroyOnLoad.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Dragger.cs" />
         <option value="$PROJECT_DIR$/Assets/_Game/Code/Radio.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Pala.cs" />
+        <option value="$PROJECT_DIR$/Assets/_Game/Palable.cs" />
       </list>
     </option>
   </component>

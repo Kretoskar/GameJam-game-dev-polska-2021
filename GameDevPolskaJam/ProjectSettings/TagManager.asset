@@ -7,6 +7,7 @@ TagManager:
   - CinemachineTarget
   - Interaction
   - Draggable
+  - Palable
   layers:
   - Default
   - TransparentFX
