@@ -15,6 +15,8 @@
             </e>
             <e p="CustomLighting.hlsl" t="Include" />
             <e p="DontDestroyOnLoad.cs" t="Include" />
+            <e p="Draggable.cs" t="Include" />
+            <e p="Dragger.cs" t="Include" />
             <e p="Interaction" t="Include">
               <e p="ActivateGameObjectInteraction.cs" t="Include" />
               <e p="AnimationTriggerInteraction.cs" t="Include" />
@@ -24,6 +26,7 @@
               <e p="PlaySoundInteraction.cs" t="Include" />
               <e p="SendFSMEventInteraction.cs" t="Include" />
             </e>
+            <e p="Outline.cs" t="Include" />
           </e>
         </e>
         <e p="DOTweenPlaymakerActions" t="Include">

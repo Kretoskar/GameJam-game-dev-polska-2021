@@ -8,14 +8,17 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Game/Scenes/0_Splash.unity
     guid: 9d8af0df54cdf3644ab65926524b019e
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Game/Scenes/1_House.unity
     guid: 707acc8dffb72b144bb1ffbe1c965f3d
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Game/Scenes/2_klatk.unity
     guid: 6dbf8f32cf962804496c81d677955ef5
+  - enabled: 1
+    path: Assets/_Game/Scenes/3_Koksowniki.unity
+    guid: 306b6880e9fbee8409bbae46193b6929
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
