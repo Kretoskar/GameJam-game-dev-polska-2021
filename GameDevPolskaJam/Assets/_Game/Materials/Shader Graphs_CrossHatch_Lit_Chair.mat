@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_CrossHatch_Lit_Chair
+  m_Shader: {fileID: -6465566751694194690, guid: 74a2d72628e02df45b2f4c992e59a880, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - BaseTexture:
+        m_Texture: {fileID: 2800000, guid: d4a5f443fec68af419d112f953e628d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_010aa9dfb6eb463bad286e42493a0d22_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_1b009e05fdad48748a1b18cf95c705b8_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6f9925aa2dc60ec428c67b4d10659138, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6394911bc3ec4b97b24dfcb66689b669_Out_0:
+        m_Texture: {fileID: 2800000, guid: 1302eb02b0b94214896860bfb744cb63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_bf777221a25f49dbbda38ee83d468fb9_Out_0:
+        m_Texture: {fileID: 2800000, guid: dc220c0fe1f504b4e980d4bbe9dda4dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_e8e59a1506694effb9a4bc0596c6267c_Out_0:
+        m_Texture: {fileID: 2800000, guid: 9b10eef30bdc0914ab5b114408a05ea1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Hatch1Tiling: 5
+    - HatchesTiling: 5
+    - NormalMapNoiseScale: 100
+    - NormalMapStrength: 0.5
+    - ScrollSpeed: 0.2
+    - ScrollSpeedHatch1: 0
+    - ScrollSpeedHatch2: 0
+    - ScrollSpeedHatch3: 0
+    - ScrollSpeedHatch4: 0
+    - TextureTiling: 5
+    m_Colors:
+    - BaseTextureTiling: {r: 1, g: 1, b: 0, a: 0}
+    - Tiling: {r: 3, g: 4, b: 0, a: 0}
+  m_BuildTextureStacks: []

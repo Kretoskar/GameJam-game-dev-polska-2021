@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_CrossHatch_Unlit_tv
+  m_Shader: {fileID: -6465566751694194690, guid: 1b672236dffcf20498aab52070f7c602, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - BaseTexture:
+        m_Texture: {fileID: 2800000, guid: ef55ea13f3414b940a71c15c8db872a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_3a3094abea5549a7833c05b6584b3b93_Out_0:
+        m_Texture: {fileID: 2800000, guid: dc220c0fe1f504b4e980d4bbe9dda4dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_3d6b460a3e434fe3b0d3f8f17284372f_Out_0:
+        m_Texture: {fileID: 2800000, guid: 6f9925aa2dc60ec428c67b4d10659138, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6ad275aba39b46efbfa130f2a967e230_Out_0:
+        m_Texture: {fileID: 2800000, guid: 9b10eef30bdc0914ab5b114408a05ea1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_80da805a96fb41b99cbe544970a0ecca_Out_0:
+        m_Texture: {fileID: 2800000, guid: 1302eb02b0b94214896860bfb744cb63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - ScrollSpeed: 0
+    m_Colors:
+    - CrossHatchTiling: {r: 3, g: 2, b: 0, a: 0}
+    - _Color: {r: 0.7169812, g: 0.7169812, b: 0.7169812, a: 0}
+  m_BuildTextureStacks: []
